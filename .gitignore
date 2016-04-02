@@ -1,6 +1,3 @@
-.vs
 obj
 bin
-packages
-*.dotsettings.user
-obj\Debug
+.suo
